@@ -1,0 +1,35 @@
+_repo: Billy-Whiskers-at-the-Circus_65655
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: DeBebian, Arthur
+    alias: DeBebian, A. (Arthur)
+    gutenberg_agent_id: '38728'
+    url: http://www.gutenberg.org/2009/agents/38728
+creator:
+  author:
+    agent_name: Montgomery, Frances Trego
+    aliases:
+    - Wheeler, F. G.
+    - Montgomery, F. T. (Frances Trego)
+    birthdate: 1858
+    deathdate: 1925
+    gutenberg_agent_id: '8392'
+    url: http://www.gutenberg.org/2009/agents/8392
+description: ''
+gutenberg_issued: '2021-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65655'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Billy Whiskers series. Vol. 5
+subjects:
+- !lcsh 'Goats -- Juvenile fiction'
+- !lcsh 'Circus -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Billy Whiskers at the Circus
+url: http://www.gutenberg.org/ebooks/65655
